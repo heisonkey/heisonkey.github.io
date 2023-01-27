@@ -641,6 +641,10 @@ overflow: hidden;
 		width: 60%;
 	}
 
+	.questions__arrow{
+		align-self: center;
+	}
+
 	.footer__container{
 		flex-wrap:wrap ;
 
